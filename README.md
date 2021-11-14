@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alaahmet
+- 👋 Hi, I’m Ahmet Ala
 - 🌱 I’m currently an undergrad computer science student at Eth Zurich.
 
 <!---
