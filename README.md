@@ -10,9 +10,8 @@
   <a href="https://codeforces.com/profile/AhmetAla">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  </a>
-  <a href="https://www.youtube.com/channel/UC5O05rYQJRmHucd6sjIzgqA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
+  <a href="https://codeforces.com/profile/AhmetAla">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
   </a>
 </p>
 
